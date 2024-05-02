@@ -26,6 +26,6 @@ In this workshop, we'll guide you through the process of constructing and visual
 8. [Querying the Knowledge Graph](#querying)
     - Query with embeddings
     - Type your query
-    - Play with embeddings
+9. [Play with embeddings](#emb)
   
    
