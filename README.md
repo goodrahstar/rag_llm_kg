@@ -3,7 +3,8 @@ Webinar content for Empower LLMs with Knowledge Graphs
 
 ![CleanShot 2024-05-02 at 17 03 40](https://github.com/goodrahstar/rag_llm_kg/assets/5167126/eca5c35b-a39e-46f2-9949-734904313042)
 
-![Webinar Video](https://www.youtube.com/watch?v=5XTshvMd3Rk)
+[![Webinar Video](https://img.youtube.com/vi/5XTshvMd3Rk/0.jpg)](https://www.youtube.com/watch?v=5XTshvMd3Rk)
+
 
 In this workshop, we'll guide you through the process of constructing and visualizing a knowledge graph using Python, leveraging various libraries and techniques.
 
